@@ -59,5 +59,3 @@ public class userInputSumMerge {
         sc.close();
     }
 }
-
-
